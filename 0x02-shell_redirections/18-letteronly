@@ -1,2 +1,2 @@
 #!/bin/bash
-grep [aA]* /etc/ssh/ssh-config
+grep [[:alpha:]]* /etc/ssh/ssh-config
