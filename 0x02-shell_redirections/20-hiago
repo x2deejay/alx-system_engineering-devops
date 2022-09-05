@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | sed 's/c//g'
+sort | sed 's/c//g' sed 's/C//g'
