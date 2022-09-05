@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | rev
+echo "Reverse" | rev
