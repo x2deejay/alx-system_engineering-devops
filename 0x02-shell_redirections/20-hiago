@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | sed 's/c//g' sed 's/C//g'
+sort | tr 'cC'
