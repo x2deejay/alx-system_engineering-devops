@@ -1,2 +1,2 @@
 #!/bin/bash
-head|tr A z|tr c e
+sort|tr 'Ac' 'Ze'
